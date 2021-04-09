@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![Togel Bian's github stats](https://github-readme-stats.vercel.app/api?username=TogelBian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Togel Bian's github waka stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TogelBian)]
-(https://github.com/anuraghazra/github-readme-stats
+(https://github.com/anuraghazra/github-readme-stats)
 
 
 
