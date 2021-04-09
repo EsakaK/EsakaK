@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### 我是谁?
-:rice: 一个生活只用0和1状态的人
+:rice: 一个生活只有0和1状态的人
 
 :worried: 不想生活在颓废和焦虑之中
 
