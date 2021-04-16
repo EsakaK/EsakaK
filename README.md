@@ -52,4 +52,3 @@ Here are some ideas to get you started:
 ### 未来的打算
 :student: 继续待在学校，学习+寻找出路
 
-:heart: 继续寻找'你'
