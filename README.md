@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 
 [![Togel Bian's github stats](https://github-readme-stats.vercel.app/api?username=TogelBian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Togel Bian's github waka stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TogelBian)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### 未来的打算
 :student: 继续待在学校，学习+寻找出路
