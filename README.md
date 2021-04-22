@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 
 :book: keep learning and get satisified
 
-:muscle: 我也永远秉持着一身男子正气。没错，就是老子！
-
-
 
 [![Togel Bian's github stats](https://github-readme-stats.vercel.app/api?username=TogelBian)](https://github.com/anuraghazra/github-readme-stats)
 
