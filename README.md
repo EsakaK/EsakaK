@@ -30,19 +30,6 @@ Here are some ideas to get you started:
 
 
 
-### 我喜欢什么?
-完美的东西或者接近完美的事务永远是我的最爱。
-- github
-- guitar
-- league of legends
-
-
-**但是这世界上只有两个东西是完美的**
-
-:heavy_plus_sign: 一个是数学
-
-🌨️ 一个是'你'
-
 [![Togel Bian's github stats](https://github-readme-stats.vercel.app/api?username=TogelBian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Togel Bian's github waka stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TogelBian)](https://github.com/anuraghazra/github-readme-stats)
