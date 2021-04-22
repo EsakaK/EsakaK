@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 :book: keep learning and get satisified
 
 
-[![Togel Bian's github stats](https://github-readme-stats.vercel.app/api?username=TogelBian)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=EsakaKyo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 未来的打算
