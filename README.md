@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 ### 未来的打算
-:student: 继续待在学校，学习+寻找出路
+:student: 刚刚考研结束，388分跨考USTC电子信息专业，希望成功上岸，继续读书:sob:。
 
