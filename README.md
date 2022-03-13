@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 :book: keep learning and get satisified
 
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=EsakaKyo)](https://github.com/anuraghazra/github-readme-stats)
+[![Esakak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esakak)](https://github.com/Esakak/github-readme-stats)
 
 
 ### 未来的打算
