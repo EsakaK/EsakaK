@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ### 未来的打算
-:student: 刚刚考研结束，388分跨考USTC电子信息专业，希望成功上岸，继续读书:sob:。
+:student: 顺利上岸中科大，进入信院6系多媒体编码组:sob:。
 
 
 ### How to contact me
