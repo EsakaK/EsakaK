@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 
 <details>
 <summary>未来的打算</summary>
-<code>
-:student: 顺利上岸中科大，进入信院6系多媒体编码组:sob:。
-</code>
+  <ul>
+    <li>顺利上岸中科大，进入信院6系多媒体编码组</ul>
 </details>
 
 
