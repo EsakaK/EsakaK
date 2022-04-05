@@ -29,15 +29,17 @@ Here are some ideas to get you started:
 [![Esakak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esakak)](https://github.com/Esakak/github-readme-stats)
 
 
-<details>
-<summary>### 未来的打算</summary>
-<pre><code>
-:student: 顺利上岸中科大，进入信院6系多媒体编码组:sob:。
-</code></pre>
-</details>
-
-
 ### How to contact me
 - wechat:togelbian
 - qq:1183885466
 - e-mail:togelbian@gmail.com
+
+
+<details>
+<summary>未来的打算</summary>
+<code>
+:student: 顺利上岸中科大，进入信院6系多媒体编码组:sob:。
+</code>
+</details>
+
+
