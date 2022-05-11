@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 
 
 #### 我是谁?
-<!-- img_begin -->
-<div style="display: flex">
-<img align="right" width="100" src="/img/snowplow.png">
-<img align="right" width="200" src="/img/snow.png">
-</div>
-<!-- img_end -->
 
 :rice: 一个生活只有0和1状态的人
 
