@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" alt="c" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c" /></code>
 
 #### Framework and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 <!--Github-langu-->
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsakaK&exclude_repo=EsakaK.github.io&langs_count=8&layout=compact"/>
 <!--Github-langu-->
-<code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png" alt="cocos" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobepremierepro.svg" alt="PR" /></code>
 
