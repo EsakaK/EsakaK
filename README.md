@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EsakaK.EsakaK)
 
 
-### 我是谁?
+#### 我是谁?
 :rice: 一个生活只有0和1状态的人
 
 :worried: 不想生活在颓废和焦虑之中
@@ -26,19 +26,35 @@ Here are some ideas to get you started:
 
 :book: keep learning and get satisified
 
-[![Esakak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esakak)](https://github.com/Esakak/github-readme-stats)
+#### Language
+<!--Github-Status-->
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=EsakaK&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!--Github-Status-->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" alt="c" /></code>
 
+#### Framework and tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://simpleicons.org/icons/pytorch.svg" alt="torch" /></code>
 
-### How to contact me
-- wechat:togelbian
+#### Interests
+<!--Github-langu-->
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsakaK&exclude_repo=EsakaK.github.io&langs_count=8&layout=compact"/>
+<!--Github-langu-->
+<code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png" alt="cocos" /></code>
+<code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
+<code><img height="20" src="https://simpleicons.org/icons/adobepremierepro.svg" alt="PR" /></code>
+
+#### How to contact me
+- wechat:EsakaK
 - qq:1183885466
 - e-mail:togelbian@gmail.com
-
-
-<details>
-<summary><font size="18">未来的打算</font></summary>
-  <ul>
-    <li>顺利上岸中科大，进入信院6系多媒体编码组,师从</ul>
-</details>
-
-
