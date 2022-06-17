@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 #### Interests
 <!--Github-langu-->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esakak&show_icons=true&layout=compact&langs_count=8&hide=javascript,html,css"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esakak&show_icons=true&layout=compact&langs_count=8&exclude_repo=EsakaK.github.io"/>
 <!--Github-langu-->
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobepremierepro.svg" alt="PR" /></code>
