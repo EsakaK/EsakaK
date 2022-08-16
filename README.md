@@ -55,6 +55,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://simpleicons.org/icons/adobepremierepro.svg" alt="PR" /></code>
 
 #### How to contact me
-- wechat: EsakaK
-- qq: 1183885466
 - e-mail: togelbian@gmail.com
