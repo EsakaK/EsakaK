@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 #### Language
 <!--Github-Status-->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=EsakaK&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 <!--Github-Status-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
@@ -46,10 +45,11 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://simpleicons.org/icons/pytorch.svg" alt="torch" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/tensorflow.svg" alt="tensorflow" /></code>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=EsakaK&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
 #### Interests
 <!--Github-langu-->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esakak&show_icons=true&layout=compact&langs_count=8"/>
+<!--<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esakak&show_icons=true&layout=compact&langs_count=8"/>-->
 <!--Github-langu-->
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobepremierepro.svg" alt="PR" /></code>
